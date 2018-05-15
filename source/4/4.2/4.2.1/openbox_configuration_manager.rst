@@ -10,6 +10,10 @@ Mouse allows you to set that when you have your mouse over a window you immediat
 -Move and resize changes options with moving and resizing windows.
 -Desktops lets you name your virtual desktops and change the number of them. 
 
+Version
+-------
+Lubuntu ships with version 1.2.0.4 of Openbox Configuration Manager.
+
 Screenshot
 ----------
 .. image:: openbox_configuration_manager.png

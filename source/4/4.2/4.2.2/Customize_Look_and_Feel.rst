@@ -12,9 +12,10 @@ Lubuntu 18.04 ships with version 0.6.3 of the customize look and feel tool.
 Useage
 ------
 You can preview the new theme cusomizations on the cusomize look and feel tools own window and if you like how that particular element looks you hit apply if you do not like it you can try another option or hit close to close the application and many elements have tabs on the application to select what to customize.
+
 Screenshot
 ----------
-  .. image::customize_look_and_feel.png
+  .. image:: customize_look_and_feel.png
     :width:80%
 
 How to Launch

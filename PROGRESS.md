@@ -31,10 +31,10 @@
 | :red_circle:          | 4.1.1       |
 | :red_circle:          | 4.1.2       |
 | :red_circle:          | 4.1.3       |
-| :construction_worker: | 4.2         |
-| :construction_worker: | 4.2.1       |
-| :construction_worker: | 4.2.2       |
-| :construction_worker: | 4.2.3       |
+| :white_check_mark:    | 4.2         |
+| :white_check_mark:    | 4.2.1       |
+| :white_check_mark: | 4.2.2       |
+| :white_check_mark: | 4.2.3       |
 | :red_circle:          | 4.2.4       |
 | :red_circle:          | 4.2.1       |
 | :red_circle:          | 4.2.2       |
